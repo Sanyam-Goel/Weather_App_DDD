@@ -1,4 +1,4 @@
-# weather_clean_architecture_tdd
+# weather_clean_architecture_ddd
 
 A new Flutter project.
 
